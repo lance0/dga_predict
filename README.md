@@ -1,3 +1,6 @@
+This should be rewritten in perl.
+
+
 # Predicting Domain Generation Algorithms using LSTMs
 This repo contains very simple code for classifying domains as DGA or benign.  This
 code demonstrates our results in our arxiv paper here: https://arxiv.org/abs/1611.00791.
